@@ -1,4 +1,4 @@
-# Reconstructing the CUDA SGEMM Ladder
+# Reconstructing the CUDA cuBLAS kernel working mechanics
 
 *Hand-building Simon Boehm's matmul optimization sequence on hardware his article never saw, then testing whether the same skills carry over to a formula of our own.*
 
