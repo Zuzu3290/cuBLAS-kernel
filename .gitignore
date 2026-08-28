@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# compiled CUDA binaries (built with `nvcc file.cu -o name`, no extension on Linux/WSL)
+build_matmul/1D
+build_matmul/2D
+build_matmul/SMEM
+build_matmul/auto
+build_matmul/gmem
+build_matmul/naive
+build_matmul/vector
+build_matmul/wrap
+build_matmul/memory
+build_matmul/memory_2
+build_matmul/bench/bench
+*.exe
+*.o
+*.obj
